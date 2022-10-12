@@ -1,5 +1,7 @@
 ### Hello, I'm Derek 👋
 
+[Check out my portfolio!](https://deli123.github.io/Portfolio/)
+
 ## I'm a Full-Stack Software Engineer
 - 🔭 I’m currently working on a MERN stack project
 - 🌱 I’m currently learning Python
