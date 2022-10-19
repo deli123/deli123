@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on a MERN stack project
 - 🌱 I’m currently learning Python
 - 💬 Ask me about [Viewr](https://viewrr.herokuapp.com/)
+- ⚡ Fun fact: I love watching basketball, specifically NBA, and working out!
 - 📫 How to reach me: [Email](mailto:liderek63@gmail.com) or [LinkedIn](https://www.linkedin.com/in/derli/)
 - 😄 Pronouns: He/His
 
